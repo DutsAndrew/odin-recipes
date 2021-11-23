@@ -1,1 +1,2 @@
 # odin-recipes
+This is a Odin Project on my ability to use HTML and Git. I will be utilizing HTML code to demonstrate my ability to use attributes, body, header, meta, paragraph, strong, italics, and other HTML tags. The HTML product will be pushed to GitHub using Git.
